@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.2.4">
   <diagram name="Página-1" id="bw14ixM7F8a6h-0HpJix">
-    <mxGraphModel dx="1675" dy="1420" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1544" dy="1267" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,19 +117,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WvhtQV-oZC2lpmm6LuLU-36" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;Carro carro1 = &lt;span style=&quot;color:#cf8e6d;&quot;&gt;new &lt;/span&gt;Carro();&lt;/pre&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="-783" y="892" width="297.6" height="60" as="geometry" />
+          <mxGeometry x="-783" y="982" width="297.6" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WvhtQV-oZC2lpmm6LuLU-43" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="WvhtQV-oZC2lpmm6LuLU-37" target="WvhtQV-oZC2lpmm6LuLU-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WvhtQV-oZC2lpmm6LuLU-37" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;Carro carro2 = &lt;span style=&quot;color:#cf8e6d;&quot;&gt;new &lt;/span&gt;Carro();&lt;/pre&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="-383" y="892" width="295" height="60.8" as="geometry" />
+          <mxGeometry x="-383" y="982" width="295" height="60.8" as="geometry" />
         </mxCell>
         <mxCell id="WvhtQV-oZC2lpmm6LuLU-40" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;carro1.&lt;span style=&quot;color:#c77dbb;&quot;&gt;nome &lt;/span&gt;= &lt;span style=&quot;color:#6aab73;&quot;&gt;&quot;Ford&quot;&lt;/span&gt;;&lt;br&gt;carro1.&lt;span style=&quot;color:#c77dbb;&quot;&gt;modelo &lt;/span&gt;= &lt;span style=&quot;color:#6aab73;&quot;&gt;&quot;Ka&quot;&lt;/span&gt;;&lt;br&gt;carro1.&lt;span style=&quot;color:#c77dbb;&quot;&gt;ano &lt;/span&gt;= &lt;span style=&quot;color:#2aacb8;&quot;&gt;2010&lt;/span&gt;;&lt;/pre&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-716" y="1026" width="167" height="89" as="geometry" />
+          <mxGeometry x="-716" y="1116" width="167" height="89" as="geometry" />
         </mxCell>
         <mxCell id="WvhtQV-oZC2lpmm6LuLU-42" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;carro2.&lt;span style=&quot;color:#c77dbb;&quot;&gt;nome &lt;/span&gt;= &lt;span style=&quot;color:#6aab73;&quot;&gt;&quot;Fiat&quot;&lt;/span&gt;;&lt;br&gt;carro2.&lt;span style=&quot;color:#c77dbb;&quot;&gt;modelo &lt;/span&gt;= &lt;span style=&quot;color:#6aab73;&quot;&gt;&quot;Uno&quot;&lt;/span&gt;;&lt;br&gt;carro2.&lt;span style=&quot;color:#c77dbb;&quot;&gt;ano &lt;/span&gt;= &lt;span style=&quot;color:#2aacb8;&quot;&gt;2015&lt;/span&gt;;&lt;/pre&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-321.9970588235293" y="1026.0017647058824" width="173" height="89" as="geometry" />
+          <mxGeometry x="-321.9970588235293" y="1116.0017647058824" width="173" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="WvhtQV-oZC2lpmm6LuLU-44" value="&lt;div&gt;Objeto carro1&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="974" width="122" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WvhtQV-oZC2lpmm6LuLU-45" value="&lt;div&gt;Objeto carro2&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-221" y="974" width="122" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
