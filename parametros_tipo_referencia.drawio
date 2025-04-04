@@ -1,9 +1,50 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.5">
   <diagram name="Página-1" id="Ey6L-FTHbJj4TmoRh0M2">
-    <mxGraphModel>
+    <mxGraphModel dx="1544" dy="2067" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tC1NBLTRWVenez_bApRF-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-293" y="-760" as="sourcePoint" />
+            <mxPoint x="-129" y="-760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tC1NBLTRWVenez_bApRF-2" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;Estudante estudante01 = &lt;span style=&quot;color:#cf8e6d;&quot;&gt;new &lt;/span&gt;Estudante();&lt;/pre&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-567" y="-784" width="274" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tC1NBLTRWVenez_bApRF-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tC1NBLTRWVenez_bApRF-3" target="tC1NBLTRWVenez_bApRF-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-142" y="-427" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tC1NBLTRWVenez_bApRF-3" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;Estudante estudante02 = &lt;span style=&quot;color:#cf8e6d;&quot;&gt;new &lt;/span&gt;Estudante();&lt;br&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-566.5" y="-452" width="273" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tC1NBLTRWVenez_bApRF-4" value="&lt;div style=&quot;background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;estudante01.&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;nome &lt;/span&gt;= &lt;span style=&quot;color: rgb(106, 171, 115);&quot;&gt;&quot;Matthew&quot;&lt;/span&gt;;&lt;br&gt;estudante01.&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;idade &lt;/span&gt;= &lt;span style=&quot;color: rgb(42, 172, 184);&quot;&gt;20&lt;/span&gt;;&lt;br&gt;estudante01.&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;sexo &lt;/span&gt;= &lt;span style=&quot;color: rgb(106, 171, 115);&quot;&gt;&#39;M&#39;&lt;/span&gt;;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-129" y="-882.75" width="245.5" height="245.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tC1NBLTRWVenez_bApRF-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-129" y="-549.75" width="245.5" height="245.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tC1NBLTRWVenez_bApRF-9" value="&lt;div style=&quot;background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;estudante02.&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;nome &lt;/span&gt;= &lt;span style=&quot;color: rgb(106, 171, 115);&quot;&gt;&quot;Foyer&quot;&lt;/span&gt;;&lt;br&gt;estudante02.&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;idade &lt;/span&gt;= &lt;span style=&quot;color: rgb(42, 172, 184);&quot;&gt;18&lt;/span&gt;;&lt;br&gt;estudante02.&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;sexo &lt;/span&gt;= &lt;span style=&quot;color: rgb(106, 171, 115);&quot;&gt;&#39;M&#39;&lt;/span&gt;;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="-466" width="206" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tC1NBLTRWVenez_bApRF-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tC1NBLTRWVenez_bApRF-10" target="tC1NBLTRWVenez_bApRF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC1NBLTRWVenez_bApRF-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tC1NBLTRWVenez_bApRF-10" target="tC1NBLTRWVenez_bApRF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC1NBLTRWVenez_bApRF-10" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Main.java&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-485.5" y="-617" width="111" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="tC1NBLTRWVenez_bApRF-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="254" y="-733.5" width="437" height="279" as="geometry" />
+        </mxCell>
+        <mxCell id="tC1NBLTRWVenez_bApRF-17" value="&lt;div style=&quot;background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(207, 142, 109);&quot;&gt;public class &lt;/span&gt;ImpressoraEstudante {&lt;br&gt;    &lt;span style=&quot;color: rgb(207, 142, 109);&quot;&gt;public void &lt;/span&gt;&lt;span style=&quot;color: rgb(86, 168, 245);&quot;&gt;imprimeEstudante&lt;/span&gt;(Estudante estudante) {&lt;br&gt;        System.&lt;span style=&quot;color: rgb(199, 125, 187); font-style: italic;&quot;&gt;out&lt;/span&gt;.println(estudante.&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;nome&lt;/span&gt;);        &lt;br&gt;        System.&lt;span style=&quot;color: rgb(199, 125, 187); font-style: italic;&quot;&gt;out&lt;/span&gt;.println(estudante.&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;idade&lt;/span&gt;);        &lt;br&gt;        System.&lt;span style=&quot;color: rgb(199, 125, 187); font-style: italic;&quot;&gt;out&lt;/span&gt;.println(estudante.&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;sexo&lt;/span&gt;);        &lt;br&gt;    }&lt;br&gt;}&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="258" y="-677" width="366" height="122" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
