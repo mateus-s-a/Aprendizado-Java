@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.5">
   <diagram name="Página-1" id="Ey6L-FTHbJj4TmoRh0M2">
-    <mxGraphModel dx="1846" dy="2439" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="1923" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,6 +28,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="tC1NBLTRWVenez_bApRF-23" value="Class ImpressoraEstudante" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="tC1NBLTRWVenez_bApRF-18">
+          <mxGeometry x="-0.3323" y="-25" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tC1NBLTRWVenez_bApRF-4" value="&lt;div style=&quot;background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;estudante01.&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;nome &lt;/span&gt;= &lt;span style=&quot;color: rgb(106, 171, 115);&quot;&gt;&quot;Matthew&quot;&lt;/span&gt;;&lt;br&gt;estudante01.&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;idade &lt;/span&gt;= &lt;span style=&quot;color: rgb(42, 172, 184);&quot;&gt;20&lt;/span&gt;;&lt;br&gt;estudante01.&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;sexo &lt;/span&gt;= &lt;span style=&quot;color: rgb(106, 171, 115);&quot;&gt;&#39;M&#39;&lt;/span&gt;;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-129" y="-882.75" width="245.5" height="245.5" as="geometry" />
         </mxCell>
@@ -36,6 +41,11 @@
             <Array as="points">
               <mxPoint x="356" y="-259" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tC1NBLTRWVenez_bApRF-24" value="Class ImpressoraEstudante" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="tC1NBLTRWVenez_bApRF-19">
+          <mxGeometry x="-0.3829" y="24" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tC1NBLTRWVenez_bApRF-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
