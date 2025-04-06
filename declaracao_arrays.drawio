@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.6">
   <diagram name="Página-1" id="zZZ8uDul51QJqdM6ozN6">
-    <mxGraphModel dx="3804" dy="1479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2986" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lGeH4csDWYJscvn6PiZ9-1" value="&lt;b&gt;&lt;u&gt;Declaração de Arrays Sintaxes&lt;/u&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="279" y="80" width="270" height="40" as="geometry" />
+          <mxGeometry x="279" y="80" width="311" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lGeH4csDWYJscvn6PiZ9-2" value="1. Usando o estilo Java (recomendado)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="145.5" y="160" width="220" height="30" as="geometry" />
